@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Sergio Quiroga",
+        "email": "sergioquirogab2003@gmail.com",
+        "birthday": "10-02",
+        "cc": ["cc1@example.com", "cc2@example.com"]
+    },
+    {
+        "name": "Cliente2",
+        "email": "cliente2@example.com",
+        "birthday": "12-25",
+        "cc": ["cc3@example.com", "cc4@example.com"]
+    }
+]
